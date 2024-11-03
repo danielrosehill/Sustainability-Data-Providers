@@ -1,0 +1,81 @@
+Name,Website,Description,Data type,Dataset(s) - size,Notes,Geographical coverage
+AlphaFold,alphafold.com,Protein structure database,Environmental science data,Large,Machine learning based,Global
+Aqueduct,wri.org/aqueduct,Water risk assessment platform,Water risk data,Large,Developed by WRI,Global
+CAIT Climate Data Explorer,climatewatchdata.org/data-explorer,Historical greenhouse gas emissions data platform,Climate data,Large,Multiple data visualizations,Global
+CBIRD Data Hub,biodiversity.ubc.ca,Urban biodiversity and research initiatives database,Biodiversity data,Various,Campus focused research,UBC Vancouver
+CDP Open Data Portal,data.cdp.net,Environmental disclosure data from companies and cities,Environmental disclosure data,Large,Annual disclosure data,Global
+CSFS Dataverse,https://dataverse.scholarsportal.info,Agricultural and food systems research data repository,Agricultural data,Not specified,Focus on long-term research data,Local/Regional
+CSRHub,csrhub.com,Corporate social responsibility ratings,CSR/ESG data,20000+ companies,Aggregated scores,Global
+Climate Action Tracker,climateactiontracker.org,National climate action assessment,Climate policy data,40+ countries,Independent analysis,Global
+Climate Data Online (CDO),https://www.ncdc.noaa.gov/cdo-web/,Provides free access to historical weather and climate data,Weather and climate data,Large,,Worldwide
+Climate Watch,https://www.climatewatchdata.org,Climate action and emissions data platform,Climate data,Large,National climate plans included,Global
+Copernicus Open Access Hub,scihub.copernicus.eu,European Union's Earth observation program data,Earth observation data,Large,Free registration required,Global
+Data4SDGs Toolbox,data4sdgs.org,Open data resources for sustainable development goals,SDG-related data,Large,Multiple modules available,Global
+Data4SDGs Toolbox,data4sdgs.org,Resources for SDG monitoring and implementation,SDG data,Various,Multiple modules,Global
+Data Commons,https://datacommons.org/,Brings together sustainability-related data from over 100 sources,Diverse sustainability data,Large,Focuses on climate change solutions,Global
+Data to Policy Navigator,https://www.datatopolicy.org/repository,Curated databases for policymakers covering various development areas,Diverse data,Varies,Supports data-informed policymaking,Global
+Data.sustain,https://data.sustain.ubc.ca,Campus sustainability data portal with various environmental metrics,Campus environmental data,Various,Multiple data formats available,UBC Campus
+DataONE (ONEMercury),https://www.dataone.org,Distributed framework for Earth observational data,Environmental science data,Large,Focuses on earth observational data,Global
+EDI Data Portal,edi.org,Environmental and ecological data repository,Environmental research data,Large,Uses FAIR principles,Global
+ESG Book,esgbook.com,Sustainability data and scoring platform,ESG data,Large,Real-time ESG data,Global
+Energy Access Explorer,energyaccessexplorer.org,Open-source energy access mapping platform,Energy data,Large,Focus on inclusive access,Global
+Environmental Justice Atlas,ejatlas.org,Environmental conflicts and justice cases,Environmental justice data,3300+ cases,Crowdsourced data,Global
+Forest Atlases,wri.org/forest-atlases,Forest resource management platform,Forest monitoring data,Large,Government partnerships,Global
+GBIF,gbif.org,Intergovernmental biodiversity data initiative,Biodiversity records,1.8+ billion records,63000+ datasets,Global
+Global Biodiversity Information Facility,gbif.org/occurrence,Species occurrence records worldwide,Biodiversity data,2B+ records,Research-grade data,Global
+Global CMD,https://gcmd.nasa.gov,Earth science data repository,Earth science data,34000+ datasets,Includes research instruments data,Global
+Global Carbon Atlas,globalcarbonatlas.org,CO2 emissions data platform,Carbon emissions,Large,Annual updates,Global
+Global Coal Plant Tracker,globalenergymonitor.org,Coal plant database worldwide,Energy infrastructure,Large,Monthly updates,Global
+Global Forest Change,earthenginepartners.appspot.com,Forest loss and gain monitoring platform,Forest cover data,Large,Annual updates,Global
+Global Forest Watch Pro,pro.globalforestwatch.org,Deforestation monitoring platform,Forest data,Large,Satellite based,Global
+Global Material Flows Database,materialflows.net,Resource extraction and trade flow data,Material flow data,Large,Economic sector focus,Global
+Global Oil and Gas Database,ggon.org,Oil and gas infrastructure tracking,Energy infrastructure,Large,Industry focused,Global
+Global Power Plant Database,datasets.wri.org/dataset/globalpowerplantdatabase,Power plant locations and characteristics,Energy data,30000+ plants,Includes emissions data,Global
+Global Reporting Initiative,database.globalreporting.org,Sustainability reporting database,Sustainability reports,Large,Standardized reporting,Global
+Global Solar Atlas,globalsolaratlas.info,Solar resource and PV potential data,Solar radiation data,Large,Developed by World Bank Group,Global
+Global Temperature Data,data.giss.nasa.gov,Temperature anomalies and trends,Climate data,Large,Historical records,Global
+Global Wind Atlas,globalwindatlas.info,Wind resource assessment platform,Wind energy data,Large,Companion to Solar Atlas,Global
+Green Web Dataset,thegreenwebfoundation.org,Tracks websites running on green electricity,Green hosting data,Large,Verified green hosting,Global
+Green Web Dataset,thegreenwebfoundation.org,Database of websites running on green energy,Green hosting data,Large,Independent verification,Global
+INSPIRE Geoportal,inspire-geoportal.ec.europa.eu,European spatial and environmental data infrastructure,Geospatial data,Large,EU focused initiative,Europe
+IRI/LDEO Climate Data Library,https://iridl.ldeo.columbia.edu,Powerful online data repository and analysis tool for climate-related data,Climate data,Hundreds of terabytes,Browser-based analysis tools available,Global
+LandMark,landmarkmap.org,Indigenous and community lands database,Land rights data,Large,Focus on tenure security,Global
+MSCI ESG Ratings Tool,msci.com/esg-ratings,Provides ESG ratings and climate data for companies,ESG/Climate data,Large,Includes carbon emissions data,Global
+Marine Data Archive,mda.vliz.be,Marine and coastal ecosystem data,Marine data,Large,Research focus,Global
+Metro Vancouver Open Data Portal,https://opendata.vancouver.ca,Public environmental and sustainability data for Vancouver,Municipal sustainability data,Large,Multiple export formats,Vancouver Region
+NASA Open Data Portal,data.nasa.gov,Centralized geospatial data from NASA's planetary missions,Geospatial/Earth observation,40000+ datasets,20000 unique monthly users,Global
+NOAA Big Data Project,noaa.gov/big-data-project,Environmental and climate data repository,Climate and environmental data,Petabytes,Industry collaborations,Global
+Natural Earth Data,naturalearthdata.com,Vector and raster map data,Geographic data,Large,Multiple scales,Global
+Natural Resources Canada,open.canada.ca/data,Canadian environmental and natural resource data,Environmental data,Large,Government database,Canada
+OCC Environmental Data Commons,edc.occ-data.org,Repository for environmental public datasets of scientific interest,Environmental research data,Large,Part of Open Science Data Cloud,Global
+Ocean Watch,oceanwatch.wri.org,Ocean economy and management platform,Ocean data,Large,Science-policy interface,Global
+Open SDG,https://open-sdg.org,An open-source platform for managing and publishing data related to the UN SDGs,SDG-related data,Not specified,Free to reuse,Global
+Open Sustainability Index,https://www.opensustainabilityindex.org,A global open-source sustainability database where anyone can view report and edit data,Corporate sustainability data,Not specified,Similar to Wikipedia,Global
+Open Timber Portal,opentimberportal.org,Legal timber harvest and trade compliance data,Forest legality data,Large,Producer country focus,Global
+OpenEI,openei.org,Energy-related open data repository,Energy data,Large,Supported by NREL,Global
+Our World in Data,ourworldindata.org,Research and data on global challenges,Development indicators,Large,Interactive visualizations,Global
+PANGAEA,https://www.pangaea.de,Open Access library for georeferenced earth system research data,Earth system data,Large,Long-term archival guaranteed,Global
+Planetary Computer,planetarycomputer.microsoft.com,Environmental and Earth observation data,Earth observation data,Petabytes,Cloud-based platform,Global
+Project Matsu,matsu.opensciencedatacloud.org,Cloud-based satellite imagery processing platform,Satellite imagery,Large,Focus on disaster relief,Global
+Protected Planet,protectedplanet.net,Database of protected areas and conservation efforts,Conservation data,Large,Tracks international targets,Global
+Refinitiv ESG Scores,refinitiv.com/esg-scores,Corporate ESG performance metrics and rankings,ESG data,Large,Industry peer comparison,Global
+Resource Watch,https://resourcewatch.org,Comprehensive platform for sustainability and environmental data,Environmental data,Large,Real-time data visualization,Global
+S&P Global ESG Scores,spglobal.com/esg,Detailed ESG scoring across 30 focus areas,ESG data,Large,Public disclosure based,Global
+SASB Materiality Finder,sasb.org/materiality-finder,Framework for sustainability risk and materiality,ESG materiality data,Large,Industry-specific issues,Global
+Sustainability Research and Data Portal,https://sustain.ubc.ca/programs/seeds-sustainability-program/sustainability-research-and-data-portal,An open data portal providing access to a variety of campus sustainability data,Campus sustainability data,Not specified,,University of British Columbia
+Sustainable Development Goals Index,sdgindex.org,Country-level SDG progress tracking,SDG data,Large,Annual updates,Global
+Sustainable Development Report,sdgindex.org,Country-specific SDG progress tracking,SDG data,Large,Historical trends available,Global
+Sustainable Investing Open Access Initiative,https://www.robeco.com/en-int/sustainable-investing/sustainable-investing-open-access-initiative,Scores contributions to the 17 Sustainable Development Goals (SDGs) from various companies,Sustainable Development Goals data,Not specified,Provides insights into ESG criteria,Global
+Sustainalytics ESG Risk,sustainalytics.com/esg-risk,Company ESG risk ratings and assessments,ESG risk data,13200+ companies,Free public access,Global
+Trase.Earth,trase.earth,Supply chain transparency platform,Supply chain data,Large,Commodity focus,Global
+UN Data,data.un.org,Connects 32 databases of country-specific indicators,Development indicators,60M+ records,Economic/social/environmental,Global
+USGS Earth Explorer,earthexplorer.usgs.gov,Comprehensive earth science data repository,Earth science data,Petabytes,Satellite imagery focus,Global
+Urban Data Lab,data.sustain.ubc.ca,Campus sustainability research data portal,Campus sustainability data,Various,Multiple data formats,UBC Campus
+WWF Risk Filter Suite,riskfilter.org,Tool for biodiversity and water physical risks assessment,Biodiversity/Water risk data,Large,Interactive risk mapping,Global
+Water Peace & Security Partnership,waterpeacesecurity.org,Water-related security risk assessment tools,Water security data,Large,Founded in 2018,Global
+Wikirate,https://wikirate.org/data,Largest open registry of corporate sustainability data,Corporate sustainability data,Large,Data is open and free to access,Global
+World Bank Open Data,data.worldbank.org,Comprehensive country-level development data,Development indicators,Large,Multiple indicators,Global
+World Resources Institute (WRI),https://www.wri.org/data/data-products,Provides reliable data for actionable change in various sectors,Environmental data,Large,Focuses on sustainable development,Global
+WorldClim,worldclim.org,Global climate information database,Climate data,Large,Historical records and future projections,Global
+i-Tree Landscape,https://landscape.itreetools.org,Interactive database for tree canopy and land cover characteristics,Tree and land cover data,Not specified,Includes environmental benefits calculation,USA
+iNaturalist,inaturalist.org,Public repository of citizen science biodiversity data,Biodiversity data,28M+ observations,240000+ species recorded,Global
